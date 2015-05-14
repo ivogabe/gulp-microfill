@@ -1,0 +1,33 @@
+{
+  "name": "gulp-microfill",
+  "version": "0.1.0",
+  "description": "Microfill for gulp",
+  "main": "release/index.js",
+  "keywords": [
+    "gulp",
+    "microfill",
+    "polyfill",
+    "dynamic"
+  ],
+  "author": {
+    "name": "Ivo Gabe de Wolff",
+    "url": "http://ivogabe.com/"
+  },
+  "homepage": "https://github.com/ivogabe/microfill",
+  "bugs": "https://github.com/ivogabe/microfill/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivogabe/microfill.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-typescript": "^2.7.3",
+    "typescript": "^1.5.0-beta"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.4",
+    "microfill": "^0.1.0",
+    "through2": "^0.6.5"
+  }
+}
